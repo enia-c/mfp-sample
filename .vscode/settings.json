@@ -1,0 +1,17 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.sortImports": true
+  },
+  "editor.formatOnSave": true,
+  "editor.mouseWheelZoom": true,
+
+  "explorer.compactFolders": false,
+
+  "search.exclude": {
+    "**/dist": true,
+    "**/node_modueles": true,
+    "package-lock.json": true
+  },
+
+  "typescript.tsdk": "./node_modules/typescript/lib"
+}
